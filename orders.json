@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD1023",
+    "customer": "Preethi",
+    "product": "Running Shoes",
+    "status": "Out for delivery",
+    "expected_delivery": "Today by 7 PM",
+    "return_eligible": true,
+    "return_days": 7
+  },
+  {
+    "order_id": "ORD1024",
+    "customer": "Arun",
+    "product": "Wireless Headphones",
+    "status": "Shipped",
+    "expected_delivery": "Tomorrow",
+    "return_eligible": true,
+    "return_days": 7
+  },
+  {
+    "order_id": "ORD1025",
+    "customer": "Kavi",
+    "product": "Smart Watch",
+    "status": "Delivered",
+    "expected_delivery": "Delivered yesterday",
+    "return_eligible": false,
+    "return_days": 0
+  }
+]
