@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "price": 1999,
+    "rating": 4.5
+  },
+  {
+    "name": "Casual Sneakers",
+    "category": "Shoes",
+    "price": 1799,
+    "rating": 4.4
+  },
+  {
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 1499,
+    "rating": 4.6
+  },
+  {
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.7
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 999,
+    "rating": 4.3
+  }
+]
